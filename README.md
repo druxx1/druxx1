@@ -18,7 +18,6 @@
 
 📄 Resumes: [Portuguese](https://drive.google.com/file/d/1QKw3I3jyvP0gi01rW60OMJRpyxKTWVay/view?usp=drive_link) / [English](https://drive.google.com/file/d/1yZSXFMT5Ty70W1uYy6SxPY6i7z-xbtGN/view?usp=drive_link)
 
-⚡ More about me: **I'm a GymRat and a Counter-Strike lover. I've also been learning a lot about investing, the stock market, etc. I need to take care of my future too!**
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/vitor-hugo-magalhaes-marinho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vitor-hugo-magalhaes-marinho/" height="30" width="40" /></a>
@@ -38,6 +37,15 @@
 - Native Portuguese 5/5⭐
 - Advanced English 4/5⭐
 - Begginer Spanish 1/5⭐
+
+---
+### ⚡ More about me 
+
+- I'm a **GymRat!** 🏋️‍♂️ 
+
+- I really enjoy competitive games, **Counter-Strike lover** 🔫 
+
+- Recently I've been **learning a lot about investing, the stock market, etc.** Don't forget about the future!** 💰
 
 ---
 
