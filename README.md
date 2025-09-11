@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vitor!</h1>
-<h3 align="center">Data science, Machine Learning and Big Data student. My passion for data, being able to manipulate it and generate insights, motivated me to seek learning and development opportunities in the area!</h3>
+<h4 align="center">📊 Data science, Machine Learning and Big Data student<br><br>🚀 My passion for data, being able to manipulate it and generate insights, <br>motivated me to seek learning and development opportunities in the area!</h3>
 
 ---
 🎓 I’m currently pursuing a **Bachelor's degree in Computer Science at Anhembi Morumbi University**
@@ -45,7 +45,7 @@
 
 - I really enjoy competitive games, **Counter-Strike lover** 🔫 
 
-- Recently I've been **learning a lot about investing, the stock market, etc.** Don't forget about the future!** 💰
+- Recently I've been **learning a lot about investing, the stock market, etc.** Don't forget about the future! 💰
 
 ---
 
