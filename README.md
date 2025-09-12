@@ -12,7 +12,7 @@
 
 💬 Ask me about **Python, Pandas, Scikit-Learn, Numpy, Seaborn, Matplotlib, SQL, Power BI, Excel and Jupyter Notebooks**
 
-👨‍💻 All of my projects are available [Here]() / All of my certificates are available [Here](https://drive.google.com/drive/folders/13jMS8vgSQfyrJdJmnEmegreyZ2K0Dii6?usp=drive_link)
+👨‍💻 All of my projects are available [Here](https://github.com/druxx1/Python-Projects) / All of my certificates are available [Here](https://drive.google.com/drive/folders/13jMS8vgSQfyrJdJmnEmegreyZ2K0Dii6?usp=drive_link)
 
 📫 How to reach me: **vhmmarinho@gmail.com**
 
