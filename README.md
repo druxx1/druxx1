@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Vitor!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=2000&color=F7F7F7&center=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Vitor!;%F0%9F%98%80+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 <h3 align="center">📊 Data science, Machine Learning and Big Data student</h3>
 <h4 align="center">🚀 My passion for data, being able to manipulate it and generate insights,<br>motivated me to seek learning and development opportunities in the area!</h4>
 
