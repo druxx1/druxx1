@@ -1,4 +1,4 @@
-<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=4000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=850&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Vitor!;Welcome+to+my+profile!+%F0%9F%98%80" alt="Typing SVG"/></h1>
+<h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=650&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Vitor!;Welcome+to+my+profile!+%F0%9F%98%80" alt="Typing SVG" /></h1>
 <h3 align="center">📊 Data science, Machine Learning and Big Data student</h3>
 <h4 align="center">🚀 My passion for data, being able to manipulate it and generate insights,<br>motivated me to seek learning and development opportunities in the area!</h4>
 
