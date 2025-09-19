@@ -17,7 +17,7 @@
 
 📫 How to reach me: **vhmmarinho@gmail.com**
 
-📄 Resumes: [Portuguese](https://drive.google.com/file/d/1QKw3I3jyvP0gi01rW60OMJRpyxKTWVay/view?usp=drive_link) / [English](https://drive.google.com/file/d/1yZSXFMT5Ty70W1uYy6SxPY6i7z-xbtGN/view?usp=drive_link)
+📄 Resumes: [Portuguese](https://drive.google.com/file/d/1NvkiUVOHzAT3yFR-Y-oOH1M5ck-ypxmD/view?usp=drive_link) / [English](https://drive.google.com/file/d/1UQhJ_9yP2yOLjE2qRFjI2iilucd7eoKq/view?usp=drive_link)
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
