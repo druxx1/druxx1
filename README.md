@@ -9,7 +9,7 @@
 
 🎯 Aiming for **my first job opportunity, so that I can evolve, improve and contribute with my skills!**
 
-🌱 I’m currently learning **Cloud Platforms and Databases**
+🌱 I’m currently learning **Cloud Platforms, Databases and Data Engineering through IBM's Data Engineering course**
 
 💬 Ask me about **Python, Pandas, Scikit-Learn, Numpy, Seaborn, Matplotlib, SQL, Power BI, Excel and Jupyter Notebooks**
 
