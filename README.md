@@ -1,17 +1,17 @@
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&duration=4000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Vitor!;Welcome+to+my+profile!+%F0%9F%98%80" alt="Typing SVG" /></h1>
-<h3 align="center">📊 Data science, Machine Learning and Big Data student</h3>
-<h4 align="center">🚀 My passion for data, being able to manipulate it and generate insights,<br>motivated me to seek learning and development opportunities in the area!</h4>
+<h3 align="center">💻 Backend Developer Student</h3>
+<h4 align="center">🚀 My passion for software development and backend technologies motivated me to pursue continuous learning,<br>building applications with Python, Django, APIs, Databases and much more!</h4>
 
 ---
 🎓 I’m currently pursuing a **Bachelor's degree in Computer Science at Anhembi Morumbi University**
 
 🗓️ Expected graduation in **December, 2026**
 
-🎯 Aiming for **my first job opportunity, so that I can evolve, improve and contribute with my skills!**
+🎯 Aiming for a **remote job opportunity for international companies!**
 
-🌱 I’m currently learning **Cloud Platforms, Databases and Data Engineering through IBM's Data Engineering course**
+🌱 I’m currently learning **Django Web Framework**
 
-💬 Ask me about **Python, Pandas, Scikit-Learn, Numpy, Seaborn, Matplotlib, SQL, Power BI, Excel and Jupyter Notebooks**
+💬 Ask me about **Python, Databases and APIs!**
 
 👨‍💻 All of my projects are available [Here](https://github.com/druxx1/Python-Projects) / All of my certificates are available [Here](https://drive.google.com/drive/folders/13jMS8vgSQfyrJdJmnEmegreyZ2K0Dii6?usp=drive_link)
 
